@@ -1,0 +1,33 @@
+.cartaComentario{
+    margin: 20%;
+    width: 50%;
+    height: 50%;
+    border: 1px solid white;
+    border-radius: 9px;
+}
+.titulo{
+    width: 100%;
+    display: flex;
+    
+}
+img{
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    margin: 10px;
+}
+.nombreUsuario{
+    font-family: -apple-system, -apple-system, 
+  BlinkMacSystemFont, 'Segoe UI', Roboto, 
+  Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+  'Helvetica Neue', sans-serif;
+  letter-spacing: -.06em;
+  
+  
+}
+.comentarioUsuario{
+    vertical-align:top;
+}
+p{
+    margin: 20px;
+}
